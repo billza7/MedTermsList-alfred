@@ -4,7 +4,7 @@ Visit AnKing's [Github](https://github.com/AnKingMed/MedTermsList) for the Keybo
 
 ## Usage
 - You need the alfred powerpack (paid) to use this workflow.
-- Download "MedTermList - AnKing.alfredworkflow" and just import to alfred.
+- Download the latest release from the right side.
 - Search through the medical terms using keyword "md". 
 - Search through the drugs using keyword "rx".
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/49024993/122627080-961d9800-d0d7-11eb-923b-fd3573184bbc.png">
